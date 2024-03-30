@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Ramos",
+      "materias": [
+        {
+          "nombre": "NodeJs"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ],
+      "id": "4fe3"
+    },
+    {
+      "id": "ec79",
+      "nombre": "Joaquin",
+      "apellido": "Velarde",
+      "materias": [
+        {
+          "nombre": "HTML"
+        },
+        {
+          "nombre": "CSS"
+        },
+        {
+          "nombre": "JS"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "56d6"
+    },
+    {
+      "nombre": "Neymar",
+      "apellido": "Santos",
+      "promedio": 10,
+      "id": "adda"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node JS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "5776"
+    },
+    {
+      "nombre": "React JS",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "c980"
+    },
+    {
+      "nombre": "Angular",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "ceb0"
+    }
+  ]
+}
